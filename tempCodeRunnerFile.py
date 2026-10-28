@@ -1,0 +1,1 @@
+ plural_next = "s"
